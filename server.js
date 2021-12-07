@@ -27,7 +27,7 @@ var server = http.createServer(function(request, response){
         <link rel="stylesheet" href="./style.css">
       </head>
       <body>
-        <h1>你好</h1>
+        <h1>你好，世界！</h1>
       </body>
     `)
     response.end()
