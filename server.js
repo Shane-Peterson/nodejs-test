@@ -46,6 +46,6 @@ var server = http.createServer(function(request, response){
 })
 
 server.listen(port)
-console.log('监听 ' + port + ' 成功\n请闭上眼睛后用手打开 http://localhost:' + port)
+console.log('监听 ' + port + ' 端口成功\n合上眼睛，命中注定的一切，此刻，我们心满意足地接受 http://localhost:' + port)
 
 
